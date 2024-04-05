@@ -1,0 +1,6 @@
+window_width: 1280
+window_height: 720
+vert_path: "shaders/main.vert"
+frag_path: "shaders/main.frag"
+model_path: "assets/models/Diablo/diablo3_pose.obj"
+texture_path: "assets/models/Diablo/diablo3_pose_diffuse.tga"
