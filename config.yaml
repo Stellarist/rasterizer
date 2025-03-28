@@ -1,0 +1,4 @@
+window_width: 1280
+window_height: 720
+model_path: "assets/models/Diablo/diablo3_pose.obj"
+texture_path: "assets/models/Diablo/diablo3_pose_diffuse.tga"
